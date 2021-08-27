@@ -19,10 +19,9 @@ El obejtivo de este repositorio es la organización de todas las practicas que s
 
 ## EXPLICACIÓN DEL CONTENIDO
 
-> Clase del Martes 17 de Agosto del 2021
-
-- Ejercicios con Sueldos
-  > Practica del Jueves 19 de Agosto del 2021
-- Ejercicios de Rectangulos
-  > Clase del Martes 24 de Agosto del 2021
-- Ejercicios con Dados
+- Clase del Martes 17 de Agosto del 2021
+  > Ejercicios con Sueldos
+- Practica del Jueves 19 de Agosto del 2021
+  > Ejercicios de Rectangulos
+- Clase del Martes 24 de Agosto del 2021
+  > Ejercicios con Dados
